@@ -1,6 +1,6 @@
 <h1 align="center">⚡ Hey, I'm Vishnu ⚡</h1>
 
-<h3 align="center">🚀 MERN Stack Developer | Backend Architect in Progress | DSA Explorer</h3>
+<h3 align="center">🚀 MERN Stack Developer | React Developer | Frontend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Apps;JWT+%2B+Secure+Authentication;Redux+Toolkit+Explorer;Future+Software+Engineer;Code.+Debug.+Improve.+Repeat." />
@@ -12,10 +12,10 @@
 
 ```javascript
 const Vishnu = {
-    role: "Full Stack MERN Developer",
-    backendStrength: ["JWT Auth", "REST APIs", "MongoDB"],
-    frontendPower: ["React", "Redux Toolkit", "Tailwind CSS"],
-    currentFocus: ["Advanced DSA", "System Design"],
+    role: "MERN Stack Developer | React Developer | Frontend Developer",
+    backendStrength: ["JWT Auth", "REST APIs", "MongoDB", "Node.js", "Express.js"],
+    frontendPower: ["React", "Redux Toolkit", "Tailwind CSS", "TypeScript],
+    currentFocus: ["DSA", "System Design"],
     mission: "Become a Top Tier Software Engineer 🚀"
 };
 ```
@@ -25,15 +25,7 @@ const Vishnu = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,js,html,css,tailwind,git,github,vscode,postman" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishnu-11124&theme=matrix&no-frame=true&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,ts,express,mongodb,js,html,css,tailwind,python,git,github,vscode,postman" />
 </p>
 
 ---
@@ -43,14 +35,6 @@ const Vishnu = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-11124&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-11124&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-11124&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
