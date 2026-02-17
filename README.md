@@ -1,54 +1,81 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">⚡ Hey, I'm Vishnu ⚡</h1>
 
-###
+<h3 align="center">🚀 MERN Stack Developer | Backend Architect in Progress | DSA Explorer</h3>
 
-<br clear="both">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Apps;JWT+%2B+Secure+Authentication;Redux+Toolkit+Explorer;Future+Software+Engineer;Code.+Debug.+Improve.+Repeat." />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
-</div>
+---
 
-###
+## 🧑‍💻 About Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/vishnu-t-s-/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+```javascript
+const Vishnu = {
+    role: "Full Stack MERN Developer",
+    backendStrength: ["JWT Auth", "REST APIs", "MongoDB"],
+    frontendPower: ["React", "Redux Toolkit", "Tailwind CSS"],
+    currentFocus: ["Advanced DSA", "System Design"],
+    mission: "Become a Top Tier Software Engineer 🚀"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,js,html,css,tailwind,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishnu-11124&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-11124&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-11124&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-11124&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (Auto Generated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishnu-11124/Vishnu-11124/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFAA?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-</div>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-00FFAA?style=for-the-badge&logo=react&logoColor=black"/>
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vishnu-11124&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=vishnu-11124&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<h3 align="center">⚡ Eat. Sleep. Code. Repeat. ⚡</h3>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu-11124/vishnu-11124/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnu-11124/vishnu-11124/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishnu-11124/vishnu-11124/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+---
