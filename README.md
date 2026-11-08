@@ -1,21 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,55%:0F2A2E,100%:134E4A&height=260&section=header&text=Vishnu%20TS&fontSize=64&fontColor=E6EDF3&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=16&descColor=2DD4BF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=134E4A&height=130&section=header&text=Vishnu%20TS&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER&descAlignY=70&descSize=14&descColor=99F6E4" width="100%" />
 
 <a href="https://github.com/Vishnu-11124">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Learning%2C+building%2C+and+improving+every+day" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&height=40&lines=Building+modern+web+experiences;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Learning%2C+building%2C+and+improving+every+day" alt="Typing animation" />
 </a>
-
-<br/><br/>
 
 <a href="https://vishnu-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
 <a href="https://www.linkedin.com/in/vishnu-t-s/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" /></a>
 <a href="https://github.com/Vishnu-11124"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2DD4BF" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-2DD4BF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/github/followers/Vishnu-11124?label=Followers&style=flat-square&color=2DD4BF&logo=github&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-2DD4BF?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -72,13 +66,13 @@ const vishnu = {
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <sub><b>01 &nbsp;/&nbsp; FULL-STACK &nbsp;·&nbsp; E-COMMERCE</b></sub>
       <h3>TEEBLISS</h3>
       <p><i>An end-to-end T-shirt store, from sign-up to secure checkout.</i></p>
       <p>
         ▸ Authentication &amp; protected routes<br/>
-        ▸ Product discovery with search &amp; filtering<br/>
+        ▸ Search &amp; filtering for product discovery<br/>
         ▸ Cart management and order processing<br/>
         ▸ Online payments with Stripe
       </p>
@@ -94,9 +88,7 @@ const vishnu = {
         <a href="https://YOUR-LIVE-DEMO-LINK"><img src="https://img.shields.io/badge/Live_Demo-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <sub><b>02 &nbsp;/&nbsp; FRONTEND &nbsp;·&nbsp; SHOPPING EXPERIENCE</b></sub>
       <h3>Kicko</h3>
       <p><i>A fast, state-driven product browsing app built around smooth navigation.</i></p>
@@ -118,7 +110,7 @@ const vishnu = {
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <sub><b>03 &nbsp;/&nbsp; UTILITY &nbsp;·&nbsp; HEALTH &amp; FITNESS</b></sub>
       <h3>TrackFit</h3>
       <p><i>A lightweight BMI calculator that gives clear answers in one tap.</i></p>
@@ -136,6 +128,19 @@ const vishnu = {
       <p>
         <a href="https://github.com/Vishnu-11124/TrackFit"><img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=2DD4BF" /></a>
         <a href="https://YOUR-LIVE-DEMO-LINK"><img src="https://img.shields.io/badge/Live_Demo-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>04 &nbsp;/&nbsp; MORE WORK</b></sub>
+      <h3>Explore all repositories</h3>
+      <p><i>More experiments, practice projects and work in progress live on my GitHub.</i></p>
+      <p>
+        ▸ Full-stack and frontend builds<br/>
+        ▸ Python &amp; DSA practice<br/>
+        ▸ New projects added regularly
+      </p>
+      <p>
+        <a href="https://github.com/Vishnu-11124?tab=repositories"><img src="https://img.shields.io/badge/View_Repositories-2DD4BF?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
       </p>
     </td>
   </tr>
@@ -166,11 +171,17 @@ const vishnu = {
 
 ## 🔄 How I Build
 
-<div align="center">
-
-`01 Understand` → `02 Plan` → `03 Design UX` → `04 Build Components` → `05 Connect APIs & Data` → `06 Test & Optimize` → `07 Deploy & Maintain`
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="14%" valign="top"><h3>01</h3>🧠<br/><b>Understand</b><br/><sub>Define the problem</sub></td>
+    <td align="center" width="14%" valign="top"><h3>02</h3>🗺️<br/><b>Plan</b><br/><sub>Scope &amp; architecture</sub></td>
+    <td align="center" width="14%" valign="top"><h3>03</h3>🎨<br/><b>Design</b><br/><sub>UX &amp; user flows</sub></td>
+    <td align="center" width="14%" valign="top"><h3>04</h3>🧩<br/><b>Build</b><br/><sub>Components &amp; logic</sub></td>
+    <td align="center" width="14%" valign="top"><h3>05</h3>🔌<br/><b>Integrate</b><br/><sub>APIs &amp; data</sub></td>
+    <td align="center" width="14%" valign="top"><h3>06</h3>🧪<br/><b>Test</b><br/><sub>Debug &amp; optimize</sub></td>
+    <td align="center" width="14%" valign="top"><h3>07</h3>🚀<br/><b>Deploy</b><br/><sub>Ship &amp; maintain</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -207,6 +218,6 @@ I'm open to **full-stack roles, freelance work and collaborations**. Feel free t
 
 **Building. Learning. Improving.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,55%:0F2A2E,100%:134E4A&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=134E4A&height=50&section=footer" width="100%" />
 
 </div>
