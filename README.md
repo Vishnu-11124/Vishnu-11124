@@ -23,9 +23,23 @@ I build **clean, responsive and production-ready web applications** from the dat
 const vishnu = {
   role: "Full Stack Developer",
   location: "Kerala, India 🇮🇳",
-  focus: ["Web Applications", "Frontend Development", "REST APIs", "Problem Solving"],
-  stack: ["React", "Next.js", "TypeScript", "Node.js", "MongoDB"],
-  currentlyLearning: ["Python", "DSA", "System Design"],
+
+  focus: [
+    "Full Stack Development", "Web Applications", "Frontend Development", "REST APIs", "Problem Solving",
+  ],
+
+  stack: [
+    "React.js", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS", "Redux Toolkit", "Node.js", "Express.js", "MongoDB", "PostgreSQL", "Prisma", "Socket.IO",
+  ],
+
+  tools: [
+    "Git", "GitHub", "Docker", "Redis", "Cloudinary", "Postman", 
+  ],
+
+  currentlyLearning: [
+    "Data Structures & Algorithms", "System Design", "Python", 
+  ],
+
   openToWork: true,
 };
 ```
