@@ -169,16 +169,16 @@ const vishnu = {
 | | |
 |:--|:--|
 | **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css" /> |
-| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> |
-| **🛠️ Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,python,vercel,cloudflare,docker" /> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" /> |
+| **🛠️ Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,python,vercel,docker" /> |
 
 <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-<img src="https://img.shields.io/badge/Clerk-7C3AED?style=for-the-badge&logo=clerk&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
 
-<sub>Also: Redux Toolkit · React Hook Form · shadcn/ui · Mongoose · REST APIs · JWT Authentication</sub>
+<sub>Also: RTK Query · Mongoose · REST APIs · JWT Authentication</sub>
 
 </div>
 
