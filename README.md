@@ -52,13 +52,15 @@ const vishnu = {
   <tr>
     <td width="50%" valign="top">
       <h3>🔨 Currently Building</h3>
-      <p><b>Full-stack web apps</b> on the <code>React → Node.js → Express → MongoDB</code> stack, focused on:</p>
+      <p><b>Full-stack web applications</b> using modern web technologies, focused on:</p>
       <ul>
+        <li>Responsive frontend development with React &amp; Next.js</li>
+        <li>REST API development with Node.js &amp; Express</li>
         <li>Authentication &amp; authorization</li>
-        <li>REST API development</li>
-        <li>Database design</li>
-        <li>API integration &amp; payments</li>
-        <li>Deployment &amp; production workflows</li>
+        <li>Database design &amp; management</li>
+        <li>State management &amp; API integration</li>
+        <li>Real-world backend functionality</li>
+        <li>Docker-based deployment workflows</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -66,9 +68,12 @@ const vishnu = {
       <ul>
         <li>🐍 Python</li>
         <li>🧮 Data Structures &amp; Algorithms</li>
-        <li>🏗️ System Design</li>
+        <li>🏗️ System Design fundamentals</li>
+        <li>⚡ Redis &amp; caching strategies</li>
+        <li>⚖️ Load Balancing</li>
+        <li>🚪 API Gateway</li>
+        <li>🐳 Docker &amp; containerization</li>
         <li>⚛️ Advanced React &amp; Next.js</li>
-        <li>🔗 Full-stack architecture</li>
       </ul>
     </td>
   </tr>
